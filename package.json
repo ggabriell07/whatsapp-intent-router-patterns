@@ -1,0 +1,12 @@
+{
+  "name": "whatsapp-intent-router-patterns",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Executable reference implementation for deterministic-first intent routing in conversational AI systems.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
