@@ -1,0 +1,9 @@
+{"text":"Será que devo comprar um tênis de R$ 300?","expected_flow":"purchase_decision"}
+{"text":"Estou pensando em gastar 500 reais em roupa","expected_flow":"purchase_decision"}
+{"text":"Paguei R$ 45 no almoço","expected_flow":"expense_registration"}
+{"text":"Comprei um livro por 80 reais","expected_flow":"expense_registration"}
+{"text":"Recebi R$ 4500 de salário","expected_flow":"income_registration"}
+{"text":"Ganhei 900 reais de freelance","expected_flow":"income_registration"}
+{"text":"ajuda","expected_flow":"help"}
+{"text":"score","expected_flow":"score"}
+{"text":"quero entender alguma coisa sem registrar nada","expected_flow":"restricted_fallback"}
